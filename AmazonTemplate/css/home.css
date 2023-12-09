@@ -1,0 +1,152 @@
+.link-nav{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding-left:30px ;
+    transition: 0.7s;
+    
+}
+.link-nav:hover{
+  color: rgba(102, 255, 0, 0.661);
+}
+.logo{
+  width: 90px;
+}
+body{
+  background-color: rgb(231, 231, 231);
+}
+.carousel-item{
+  height: 400px;
+  margin-bottom: 150px;
+}
+#carouselExampleControls{
+  height: 400px;
+  
+}
+.card{
+  border: solid black 1px;
+  border-radius: 7px;
+  margin: 25px;
+  box-shadow: #24242c 2px 15px 15px;
+  height: 90%;
+  background-color: #24242c;
+  color: #ffffff;
+}
+.card-box{
+  margin-left: 3%;
+}
+.modal-content h5{
+  color: #000000;
+}
+
+/*inicio css promo*/
+.promocao{
+  margin-top: 15px;
+}
+.promocao img{
+  box-shadow: #24242c 1px 1px 15px;
+}
+
+/*fim css promo*/
+
+/*css footer inicio*/
+.page-footer{
+  background-color: #24242c;
+  padding: 30px;
+  box-shadow: #000000 -1px -0px 20px;
+  margin-top: 50px;
+}
+.sub-footer{
+  color: white;
+  margin-left: 20%;
+}
+.link-footer{
+  color: rgb(255, 255, 255);
+  padding-left:30px ;
+  transition: 0.7s;
+  text-decoration: none;
+  margin-left: 14%;
+}
+.link-footer:hover{
+  color: rgba(102, 255, 0, 0.661);
+}
+.icon{
+  display: inline-flex;
+  margin-left: 20%;
+  color: white;
+}
+.material-symbols-outlined{
+  color: white;
+}
+.social-media i {
+  height: 30px;
+  width: 30px;
+  text-decoration: none;
+  color: #000000;
+  border-radius: 50%;
+  border: 1px solid #000000;
+  align-items: center;
+  justify-content: center;
+  display: inline-flex;
+  background-color: white;
+  margin-right: 5px ;
+  margin-right: 5px;
+  transition: 0.5s;
+}
+.social-media a{
+  text-decoration: none;
+  color: white;
+}
+.logo-footer{
+  text-align: center;
+}
+.social-media{
+  text-align: center;
+}
+.item-footer{
+  text-align: center;
+}
+.email{
+  padding: 20px;
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+}
+.section-email{
+  width: 50%;
+  padding: 10px;
+  font-size: 15px;
+  outline: none;
+  border: 2px solid black;
+  background-color: #ffffff;
+  border-radius: 6px;
+}
+input::placeholder{
+  color: rgb(0, 0, 0);
+}
+.btn-footer{
+  width: 50%;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 17px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: white;
+  color: #401616;
+  transition: 0.3s;
+}
+.btn-footer:hover{
+  width: 51%;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 17px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: rgba(102, 255, 0, 0.661);
+  color: black;
+}
+/*css footer fim*/
+
